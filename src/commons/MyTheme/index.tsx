@@ -1,6 +1,5 @@
 import { createTheme, ThemeProvider } from "@mui/material/styles";
 import palette from "./pallete";
-import { Button } from "@mui/material";
 import typography from "./typography";
 import Pages from "../../Pages";
 
